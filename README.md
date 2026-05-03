@@ -24,12 +24,13 @@ Check out my portfolio: [mr-sanjai-offl.in](https://tryhackme.com/p/mr.sanjai.of
 </p>
 
 <details>
-  <summary>GitHub Stats ⚡</summary>
+  <summary>GitHub Stats ⚡</summary><br/>
+  
+![](https://github-readme-stats.shion.dev/api?username=mr-sanjai-offl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-sanjai-offl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sanjai-offl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://streak-stats.demolab.com/?user=mr-sanjai-offl&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mr-sanjai-offl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=mr-sanjai-offl&style=for-the-badge&color=blue)
 
