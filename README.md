@@ -22,7 +22,9 @@ Check out my portfolio: [mr-sanjai-offl.in](https://tryhackme.com/p/mr.sanjai.of
   <img src="https://github-readme-stats.vercel.app/api?username=mr-sanjai-offl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sanjai-offl&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-![](https://komarev.com/ghpvc/?username=mr-sanjai-offl&color=blue)
+
+![](https://komarev.com/ghpvc/?username=mr-sanjai-offl&style=for-the-badge&color=blue)
+
 </details>
 
 > **Engineering systems that think, detect, and defend — end to end.**
