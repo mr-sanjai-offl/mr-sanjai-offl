@@ -6,7 +6,7 @@ I build intelligent systems, secure them, and scale them for real-world impact.
 Check out my portfolio: [mr-sanjai-offl.in](https://tryhackme.com/p/mr.sanjai.offl)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,bash,git,postman,linux,kali,arduino,ps,ae" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,bash,git,github,js,postman,linux,kali,arduino,ps,ae" />
 </p>
 
 <p>
