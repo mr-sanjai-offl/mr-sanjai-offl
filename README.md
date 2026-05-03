@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEikPuXsSDZ2Q/profile-displaybackgroundimage-shrink_350_1400/B56Z3uyrPqKYAc-/0/1777827757196?e=1779321600&v=beta&t=NrLz5WKuq85RW9k7BTuccdUtqVt_jbnl8K2gRcuBjLI" alt="Sanjai LinkedIn Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="Hello Animation" width="50%" />
+</p>
 
 # Hey There! 👋  
 
