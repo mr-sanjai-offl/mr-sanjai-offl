@@ -21,6 +21,7 @@ Check out my portfolio: [mr-sanjai-offl.in](https://tryhackme.com/p/mr.sanjai.of
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mr-sanjai-offl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sanjai-offl&layout=compact&theme=tokyonight&hide_border=true" />
+  ![](https://komarev.com/ghpvc/?username=mr-sanjai-offl&color=blue)
 </p>
 </details>
 
