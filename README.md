@@ -11,7 +11,7 @@
 **I'm Sanjai** — AI engineer, system builder, and cybersecurity-focused developer.  
 I build intelligent systems, secure them, and scale them for real-world impact.  
 
-Check out my portfolio: [Portfolio](http://mrsanjaioffl.ddns.net/) | [TryHackMe](https://tryhackme.com/p/mr.sanjai.offl)
+Check out my portfolio: [Portfolio](https://tryhackme.com/p/mr.sanjai.offl) | [TryHackMe](https://tryhackme.com/p/mr.sanjai.offl) | [LinkedIn](https://www.linkedin.com/in/mr-sanjai-offl/)
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,bash,git,github,js,postman,linux,kali,arduino,ps,ae" />
