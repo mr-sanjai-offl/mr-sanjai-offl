@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEikPuXsSDZ2Q/profile-displaybackgroundimage-shrink_200_800/B56Z3uyrPqKYAY-/0/1777827757196?e=1785369600&v=beta&t=YVYfMOoIVp3Ziz2OMNS_AQhiMV3mhizPn60IqzADWLE" alt="Sanjai LinkedIn Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/GITHUB%20BANNER.png" alt="mrsanjaioffl GitHub Banner" width="100%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="Hello Animation" width="50%" />
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
 </p>
 
 # Hey There! 👋  
