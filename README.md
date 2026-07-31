@@ -13,15 +13,19 @@ I build intelligent systems, secure them, and scale them for real-world impact.
 
 Check out my portfolio: [Portfolio](https://tryhackme.com/p/mr.sanjai.offl) | [TryHackMe](https://tryhackme.com/p/mr.sanjai.offl) | [LinkedIn](https://www.linkedin.com/in/mr-sanjai-offl/)
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,bash,git,github,js,postman,linux,kali,arduino,ps,ae" />
-</p>
+</p> -->
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Building%20Systems-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Backend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
-</p>
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,bash,git,github,js,postman,linux,kali,arduino,ps,ae" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="Tensorflow" />
+</p>   
 
 <details>
   <summary>GitHub Stats ⚡</summary><br/>
